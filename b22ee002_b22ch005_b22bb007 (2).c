@@ -134,7 +134,7 @@ void generateBill(int laundryID) {
         if (laundryOrders[i].laundryID == laundryID) {
             // Calculate bill based on service type and quantity (assuming a fixed rate for simplicity)
             int billAmount = 10; // Replace with actual calculation
-            printf("Bill for Laundry ID %d: $%d\n", laundryOrders[i].laundryID, billAmount);
+            printf("Bill for Laundry ID %d: Rupees=%d\n", laundryOrders[i].laundryID, billAmount);
             return;
         }
     }
