@@ -1,4 +1,4 @@
-# ICS_CP_b22ee02-b22ch005-b22bb007
+
 # Laundry Management System (LMS)
 
 ## Overview
