@@ -49,8 +49,7 @@ The Laundry Management System (LMS) is a compact C program designed for laundrom
 
 ## Authors
 - B22EE002 Aastha Sanjay Bhore
-- B22CH005 Ayushi Singh
-- B22BB007 Amit Singh
+
   
 
 
